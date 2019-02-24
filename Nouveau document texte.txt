@@ -1,1 +1,9 @@
-Premier test git dans le cader revision
+Premier test git dans le cader revision:
+-git init
+-git config --global user.name issam amine
+-git config --global user.email issam.amine@gmx.com
+-git remote add origin master https:---->projet github
+-git add .
+-git commit -m ""
+-git log
+-git push 
