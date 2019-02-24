@@ -7,3 +7,7 @@ Premier test git dans le cader revision:
 -git commit -m ""
 -git log
 -git push 
+--------------------------deuxiem partie
+recupere un projet github
+1/git clone https:----------->projet github
+
