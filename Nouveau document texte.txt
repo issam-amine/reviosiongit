@@ -10,4 +10,6 @@ Premier test git dans le cader revision:
 --------------------------deuxiem partie
 recupere un projet github
 1/git clone https:----------->projet github
-
+-----------branch
+git branch
+git checkout -b newbranch
